@@ -17,4 +17,5 @@
     ```
     其中dg-publish设置该笔记是否需要被发布到互联网上，dg-home设置该笔记是否作为网站首页；
 6. 点击Obsidian左侧边栏的小树苗图标→在Unpublished中点击Publish unpublished notes按钮，即可发布相应笔记；
-7. 打开Netlify中生成的形如https://clinquant-peony-d53fb0.netlify.app的网址，即可浏览笔记。
+7. 打开Netlify中生成的形如https://clinquant-peony-d53fb0.netlify.app的网址，即可浏览笔记；
+8. 添加Connnected Pages图表：设置→第三方插件→Digital Garden→Appearance→Manage→选择支持图表的Theme，如Wikipedia，并关闭→Note Settings→Edit→开启Show local graph for notes。
